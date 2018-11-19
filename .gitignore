@@ -1,0 +1,3 @@
+#GIT修改忽略文件后，重新生效 git rm -r --cached .
+
+/0_History/
